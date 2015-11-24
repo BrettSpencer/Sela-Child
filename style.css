@@ -8,23 +8,15 @@ Version: 1.0.4
 template: sela
 */
 
-.book-link {display: inline-block;
-  width: 100px;
-  padding: 5px;
-  border: 1px solid #fff;
-  text-align: center;
-  outline: none;
-  text-decoration: none;
-  background: #e74c3c;
-margin-left:100px;
+a.button-link {display: inline-block;
+  width:100px;
+  padding:10px;
+  background: #f25f70;
+  color:white;
 }
 
-
-.book-link a {color:white;
-font-size:20px;}
-
-.book-link:hover,
-.book-link:focus {background:#7D1308;
+a.button-link:hover,
+a.button-link:focus {background:#404040;
 color:white;
 }
 

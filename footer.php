@@ -18,7 +18,7 @@
 <div id="footer-btn">
     <div class="btn-color">
         <a href="https://instagram.com/robin_eastwicksalon/"><i class="fa-2x fa fa-instagram"></i></a>
-        <a href="https://www.facebook.com/rnsalas79"><i class="fa-2x fa fa-facebook"></i></a>
+        <a href="https://www.facebook.com/rnsalas79"><i class="fa-2x fa fa-facebook-square"></i></a>
         <a href="http://www.yelp.com/biz/robin-salas-seattle"><i class="fa-2x fa fa-yelp"></i></a>
     </div><!-- end btn-color -->
 </div><!-- end footer-btn -->
