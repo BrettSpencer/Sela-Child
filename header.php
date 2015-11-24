@@ -13,7 +13,6 @@
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <link rel='stylesheet' id='fontAwesome' href='http://robinsalas.com/wp-content/themes/sela-child/css/font-awesome.css' type='text/css' media='all' />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <?php wp_head(); ?>
 </head>
