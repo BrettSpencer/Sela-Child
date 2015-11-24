@@ -8,17 +8,6 @@ Version: 1.0.4
 template: sela
 */
 
-a.button-link {display: inline-block;
-  width:100px;
-  padding:10px;
-  background: #f25f70;
-  color:white;
-}
-
-a.button-link:hover,
-a.button-link:focus {background:#404040;
-color:white;
-}
 
 /*--------------------------------------------------------------
 1.0 Reset
@@ -2087,4 +2076,19 @@ video {
 		max-width: 100%;
 		margin: 0 55px 0 0;
 	}
+}
+
+a.button-link {display: inline-block;
+  width:100px;
+  padding:10px;
+  background: #f25f70;
+  color:white;
+}
+
+a.button-link:hover,
+a.button-link:focus {background:#404040;
+color:white;
+}
+
+#footer-btn {padding-bottom:.75em;
 }
